@@ -1,3 +1,7 @@
+### Version 6.0.2
+
+- Improvement: Added `ArgumentNullException` check on `IUnitOfWork` dependency injection.
+
 ### Version 6.0.0
 
 - Feature: Added support for explicitly modeled Integration Event Handler and the Advance Mapping systems available in Intent Architect 4.1.x
